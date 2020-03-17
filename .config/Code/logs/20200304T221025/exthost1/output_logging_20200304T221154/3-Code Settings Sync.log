@@ -1,0 +1,105 @@
+Realtime Extension Download Summary
+--------------------
+TOTAL EXTENSIONS : 11
+
+
+
+[x] - EXTENSION: bracket-pair-colorizer - INSTALLING
+
+[x] - EXTENSION: bracket-pair-colorizer INSTALLED.
+      1 OF 11 INSTALLED
+
+
+[x] - EXTENSION: cpptools - INSTALLING
+
+[x] - EXTENSION: cpptools INSTALLED.
+      2 OF 11 INSTALLED
+
+
+[x] - EXTENSION: debugger-for-chrome - INSTALLING
+
+[x] - EXTENSION: debugger-for-chrome INSTALLED.
+      3 OF 11 INSTALLED
+
+
+[x] - EXTENSION: ev3dev-browser - INSTALLING
+
+[x] - EXTENSION: ev3dev-browser INSTALLED.
+      4 OF 11 INSTALLED
+
+
+[x] - EXTENSION: HTMLHint - INSTALLING
+
+[x] - EXTENSION: HTMLHint INSTALLED.
+      5 OF 11 INSTALLED
+
+
+[x] - EXTENSION: python - INSTALLING
+
+[x] - EXTENSION: python INSTALLED.
+      6 OF 11 INSTALLED
+
+
+[x] - EXTENSION: python - INSTALLING
+
+[x] - EXTENSION: python INSTALLED.
+      7 OF 11 INSTALLED
+
+
+[x] - EXTENSION: view-in-browser - INSTALLING
+
+[x] - EXTENSION: view-in-browser INSTALLED.
+      8 OF 11 INSTALLED
+
+
+[x] - EXTENSION: vscode-css-formatter - INSTALLING
+
+[x] - EXTENSION: vscode-css-formatter INSTALLED.
+      9 OF 11 INSTALLED
+
+
+[x] - EXTENSION: vscode-github - INSTALLING
+
+[x] - EXTENSION: vscode-github INSTALLED.
+      10 OF 11 INSTALLED
+
+
+[x] - EXTENSION: vscode-icons - INSTALLING
+
+[x] - EXTENSION: vscode-icons INSTALLED.
+      11 OF 11 INSTALLED
+
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: 897a**********
+GitHub Gist: 8d56f6debeaf2ec3dbbf9a92108a4fad
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  bracket-pair-colorizer v1.0.61
+  cpptools v0.26.3
+  debugger-for-chrome v4.12.6
+  ev3dev-browser v1.0.4
+  HTMLHint v0.6.0
+  python v2020.2.64397
+  python v0.2.3
+  view-in-browser v0.0.5
+  vscode-css-formatter v1.0.1
+  vscode-github v0.30.3
+  vscode-icons v10.0.0
+--------------------
+Done.

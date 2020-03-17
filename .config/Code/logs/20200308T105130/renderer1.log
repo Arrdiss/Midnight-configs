@@ -1,0 +1,90 @@
+[2020-03-08 10:51:53.829] [renderer1] [warning] UNRESPONSIVE extension host, 'KnisterPeter.vscode-github' took 32% of 811.988ms, saved PROFILE here: '/tmp/exthost-b047fe.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer","total":86067,"percentage":11},{"id":"gc","total":7115,"percentage":1},{"id":"KnisterPeter.vscode-github","total":261722,"percentage":32},{"id":"program","total":1508,"percentage":0},{"id":"self","total":251594,"percentage":31},{"id":"Shan.code-settings-sync","total":148378,"percentage":18},{"id":"vscode-icons-team.vscode-icons","total":24657,"percentage":3},{"id":"vscode.debug-auto-launch","total":403,"percentage":0},{"id":"vscode.emmet","total":3577,"percentage":0},{"id":"vscode.git","total":20696,"percentage":3},{"id":"vscode.merge-conflict","total":3843,"percentage":0},{"id":"vscode.search-result","total":942,"percentage":0},{"id":"vscode.vscode-account","total":1249,"percentage":0}]
+[2020-03-08 11:23:05.871] [renderer1] [error] <semantic> TypeScript Server Error (3.7.5)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69040:29)
+    at emitNodeList (tsserver.js:92901:51)
+    at emitList (tsserver.js:92780:13)
+    at Object.writeList (tsserver.js:90204:13)
+    at tsserver.js:115352:29
+    at Object.mapToDisplayParts (tsserver.js:103905:13)
+    at itemInfoForParameters (tsserver.js:115349:41)
+    at getSignatureHelpItem (tsserver.js:115315:95)
+    at tsserver.js:115288:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115288:36)
+    at tsserver.js:114947:120
+    at Object.runWithCancellationToken (tsserver.js:33400:28)
+    at tsserver.js:114947:44
+    at Object.firstDefined (tsserver.js:200:26)
+    at tsserver.js:114943:27
+    at Object.firstDefined (tsserver.js:200:26)
+    at createJSSignatureHelpItems (tsserver.js:114942:56)
+    at Object.getSignatureHelpItems (tsserver.js:114876:56)
+    at Proxy.getSignatureHelpItems (tsserver.js:130957:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140520:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139446:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.7.5)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69040:29)
+    at emitNodeList (tsserver.js:92901:51)
+    at emitList (tsserver.js:92780:13)
+    at Object.writeList (tsserver.js:90204:13)
+    at tsserver.js:115352:29
+    at Object.mapToDisplayParts (tsserver.js:103905:13)
+    at itemInfoForParameters (tsserver.js:115349:41)
+    at getSignatureHelpItem (tsserver.js:115315:95)
+    at tsserver.js:115288:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115288:36)
+    at tsserver.js:114947:120
+    at Object.runWithCancellationToken (tsserver.js:33400:28)
+    at tsserver.js:114947:44
+    at Object.firstDefined (tsserver.js:200:26)
+    at tsserver.js:114943:27
+    at Object.firstDefined (tsserver.js:200:26)
+    at createJSSignatureHelpItems (tsserver.js:114942:56)
+    at Object.getSignatureHelpItems (tsserver.js:114876:56)
+    at Proxy.getSignatureHelpItems (tsserver.js:130957:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140520:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139446:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:49149)
+	at h.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:213785)
+	at h.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212703)
+	at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212179
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:541)
+	at t.Reader.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:219256)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:218904)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

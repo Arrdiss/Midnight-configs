@@ -1,0 +1,10 @@
+system:
+  env:
+    ? ''
+    : ''
+    fps: ''
+wine:
+  d9vk: true
+  dxvk: true
+  esync: true
+  version: Proton-4.21-GE-2

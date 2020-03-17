@@ -1,0 +1,115 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/arrdiss/
+	..
+1583699167
+'b
+	/home/arrdiss/bin/
+	..
+1583699168
+'h
+	/home/arrdiss/
+	..
+1583699168
+'z
+	/home/arrdiss/.config/vifm
+	..
+1583699167
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/arrdiss
+	..
+0
+d/home
+	arrdiss
+1
+d/home/arrdiss
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+9
+d/mnt
+	..
+0
+d/
+	tmp
+18
+d/tmp
+	..
+0
+d/
+	usr
+19
+d/usr
+	..
+0
+d/
+	mnt
+9
+d/mnt
+	..
+0
+d/
+	run
+13
+d/run
+	mount
+13
+d/run/mount
+	..
+0
+d/run
+	..
+0
+d/
+	rootfs-pkgs.txt
+22
+d
+
+# Right window history (oldest to newest):
+D/home/arrdiss
+	..
+0
+D
+
+# Command line history (oldest to newest):
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

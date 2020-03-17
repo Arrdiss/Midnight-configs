@@ -1,0 +1,17 @@
+00:00:04.611569 VirtualBox GUI VM Selector Window 6.1.4 r136177 linux.amd64 (Feb 20 2020 13:12:18) release log
+00:00:04.611570 Log opened 2020-03-06T19:04:05.716941000Z
+00:00:04.611571 Build Type: release
+00:00:04.611573 OS Product: Linux
+00:00:04.611574 OS Release: 5.4.23-1-MANJARO
+00:00:04.611576 OS Version: #1 SMP PREEMPT Fri Feb 28 22:45:29 UTC 2020
+00:00:04.611597 DMI Product Name: Precision WorkStation T3500  
+00:00:04.611606 DMI Product Version: 
+00:00:04.611615 Firmware type: BIOS
+00:00:04.611654 Host RAM: 7955MB (7.7GB) total, 5644MB (5.5GB) available
+00:00:04.611657 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:04.611657 Process ID: 10379
+00:00:04.611657 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:04.611685 Qt version: 5.14.1
+00:00:04.632850 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.127287 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1680x1005
+00:00:05.148374 GUI: UIMediumEnumerator: Medium-enumeration finished!

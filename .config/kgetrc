@@ -1,0 +1,28 @@
+[Advanced]
+KonquerorIntegration=true
+
+[Appearance]
+HeaderState=AAAA/wAAAAAAAAABAAAAAQAAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAsQAAAAGAQEAAQAAAAAAAAAAAAAAAGQAAABQAAAAhAAAAAAAAAAGAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA0AAAAAEAAAAAAAAD6AAAAABk
+ShowMain=false
+
+[Internal]
+DropPosition=0,0
+FirstRun=false
+LastDirectory[$e]=$HOME/Downloads/
+LastGroup=My Downloads
+MainPosition=411,167
+
+[MainWindow]
+Height 1050=480
+State=AAAA/wAAAAD9AAAAAAAAAtwAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAYAGsAZwBlAHQAXwB0AG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1680=732
+
+[Plugins]
+kget_bittorrent_pluginEnabled=true
+kget_checksumsearch_pluginEnabled=true
+kget_kio_pluginEnabled=true
+kget_metalink_pluginEnabled=true
+kget_mirrorsearch_pluginEnabled=true
+kget_mms_pluginEnabled=true
+kget_multisegkio_pluginEnabled=true
