@@ -38,7 +38,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][46][Configuration]
-PreloadWeight=99
+PreloadWeight=92
 
 [Containments][1][Applets][46][Configuration][ConfigDialog]
 DialogHeight=540
@@ -58,7 +58,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=75
+PreloadWeight=92
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -101,7 +101,7 @@ PreloadWeight=0
 
 [Containments][35][General]
 iconSize=3
-positions=2,17,desktop:/steam.desktop,0,0,desktop:/com.spotify.Client.desktop,1,1,desktop:/visual-studio-code.desktop,1,0,desktop:/trash:⁄.desktop,0,16,desktop:/Games,0,1
+positions=2,17,desktop:/visual-studio-code.desktop,1,0,desktop:/trash:⁄.desktop,0,16,desktop:/Games,0,1,desktop:/steam.desktop,0,0,desktop:/com.spotify.Client.desktop,1,1
 sortMode=-1
 
 [Containments][35][Wallpaper][org.kde.image][General]
@@ -135,7 +135,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][38][Configuration]
-PreloadWeight=9
+PreloadWeight=1
 
 [Containments][8][Applets][39]
 immutability=1
@@ -181,7 +181,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=4
+PreloadWeight=1
 
 [Containments][8][Applets][45]
 immutability=1
@@ -190,8 +190,12 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][8][Applets][45][Configuration]
 PreloadWeight=0
 
+[Containments][8][Applets][47]
+immutability=1
+plugin=org.kde.plasma.nightcolorcontrol
+
 [Containments][8][Applets][47][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][8][ConfigDialog]
 DialogHeight=540
@@ -201,10 +205,10 @@ DialogWidth=720
 PreloadWeight=0
 
 [Containments][8][General]
-extraItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
-knownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+extraItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.nightcolorcontrol
+knownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.nightcolorcontrol
 pin=true
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:0-com.visualstudio.code.desktop,0,desktop:/com.spotify.Client.desktop,0,desktop:/steam.desktop,0,desktop:/visual-studio-code.desktop,0,desktop:0-server.js,0,desktop:0-com.spotify.Client.desktop,0,desktop:/Games,0,desktop:/Gmaes,0,desktop:/trash:⁄.desktop,0
+screenMapping=desktop:/com.spotify.Client.desktop,0,desktop:/Gmaes,0,desktop:/trash:⁄.desktop,0,desktop:0-com.visualstudio.code.desktop,0,desktop:0-com.spotify.Client.desktop,0,desktop:0-server.js,0,desktop:/Games,0,desktop:/visual-studio-code.desktop,0,desktop:/steam.desktop,0

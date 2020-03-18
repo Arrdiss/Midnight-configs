@@ -17,6 +17,12 @@ TabBoxAlternative=false
 TabBox=false
 TabBoxAlternative=false
 
+[NightColor]
+Active=true
+LatitudeAuto=50.2487
+LongitudeAuto=19.1759
+NightTemperature=2800
+
 [Plugins]
 highlightwindowEnabled=true
 

@@ -86,3 +86,4 @@ endif
 set ttymouse=sgr
 set spelllang=en,pl
 map <C-E> :NERDTreeToggle<CR>
+set number

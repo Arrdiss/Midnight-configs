@@ -1,5 +1,5 @@
 [General]
-history=defa,spotify,spoti
+history=spotify,defa,spoti
 
 [PlasmaRunnerManager]
 LaunchCounts=2 services_com.spotify.Client.desktop,3 services_componentchooser.desktop
