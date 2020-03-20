@@ -12,6 +12,11 @@
 autoload -U colors && colors
 PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[white]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
 
+#Powerline
+#powerline-daemon -q
+#POWERLINE_ZSH_CONTINUATION=1
+#POWERLINE_ZSH_SELECT=1
+#. /usr/share/powerline/bindings/zsh/powerline.zsh
 
 # Pure Prompt
 fpath+=$HOME/.zsh/pure

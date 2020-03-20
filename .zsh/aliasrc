@@ -44,6 +44,7 @@ alias drivesync='ruby ~/drivesync/drivesync.rb'
 
 alias zshrc='${=EDITOR} ~/.zshrc' # Quick access to the ~/.zshrc file
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias aliasrc='${=EDITOR} ~/.zsh/aliasrc'
 
 alias grep='grep --color'
 alias sgrep='grep -R -n -H -C 5 --exclude-dir={.git,.svn,CVS} '
