@@ -87,3 +87,6 @@ set ttymouse=sgr
 set spelllang=en,pl
 map <C-E> :NERDTreeToggle<CR>
 set number
+set paste
+set tabstop=4
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
