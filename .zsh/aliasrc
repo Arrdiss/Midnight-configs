@@ -41,6 +41,8 @@ alias lart='ls -1Fcart --color=auto'
 alias lrt='ls -1Fcrt --color=auto'
 
 alias drivesync='ruby ~/drivesync/drivesync.rb'
+alias vpn='windscribe connect'
+alias antivirus='sudo systemctl start clamav-daemon'
 
 alias zshrc='${=EDITOR} ~/.zshrc' # Quick access to the ~/.zshrc file
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
