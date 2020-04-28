@@ -1,8 +1,0 @@
-[2020-03-08 10:51:40.075] [sharedprocess] [info] main {"machineId":"93168e707ea6cc807282fb995270d4c7ad4ce16c33fbdf91240e06501635f7d0","windowId":2}
-[2020-03-08 10:51:47.506] [sharedprocess] [info] Installing extension: ev3dev.ev3dev-browser
-[2020-03-08 10:51:49.048] [sharedprocess] [info] Downloaded extension: ev3dev.ev3dev-browser /tmp/4696c10e-3681-4636-a8c4-c6685893cf13
-[2020-03-08 10:51:50.681] [sharedprocess] [info] Extracted extension to /home/arrdiss/.vscode/extensions/.ev3dev.ev3dev-browser-1.1.0: ev3dev.ev3dev-browser
-[2020-03-08 10:51:50.681] [sharedprocess] [info] Renamed to /home/arrdiss/.vscode/extensions/ev3dev.ev3dev-browser-1.1.0
-[2020-03-08 10:51:50.683] [sharedprocess] [info] Installation completed. ev3dev.ev3dev-browser
-[2020-03-08 10:51:50.999] [sharedprocess] [info] Extensions installed successfully: ev3dev.ev3dev-browser
-[2020-03-08 10:52:20.095] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,9 +1,0 @@
-[MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-StatusBar=Disabled
-ToolBarsMovable=Disabled
-splitterSizes=426,213
-
-[Recent Files]
-File1[$e]=trash:/0-archlinux-2020.03.01-x86_64.iso
-Name1[$e]=0-archlinux-2020.03.01-x86_64.iso

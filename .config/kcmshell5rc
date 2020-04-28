@@ -1,7 +1,0 @@
-[KFileDialog Settings]
-Recent Files[$e]=dsync.sh,file:$HOME/dsync.sh
-detailViewIconSize=0
-
-[Open-with settings]
-CompletionMode=1
-History=ala,alacritty
